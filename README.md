@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: ![live site link](<https://your-live-site-url.com>)
+- Live Site URL: [Click here to visit live site](https://miketeu.github.io/funding/)
 
 ### Built with
 
@@ -41,7 +41,7 @@ Users should be able to:
 
 ### Useful resources
 
-- [Kevin Powell Media](https://www.kevinpowell.co/) - Many good tips on using CSS and getting the best out of it. Explained simply and comprehensively.
+- [Kevin Powell Media](https://www.kevinpowell.co/) - Many good tips on using CSS and getting the best out of it. Explained simply and comprehensively. The frontice piece of this site inspired by a Kevin Powell tutorial.
 
 ## Author
 
